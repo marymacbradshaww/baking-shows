@@ -1,4 +1,4 @@
-# baking-shows
+# <i>The Great British Baking Show</i>
 
 My sophomore year of college, I lost my hearing and came down with a sudden illness that kept me from my classes, my jobs, and my collegiate soccer season. I did not step outside of my dorm building for almost a month, and had little strength to keep in touch with my friends and family, and I certainly was not able to attend my classes or practices as they both went on without me.
 
@@ -9,3 +9,4 @@ Predominantly showcasing the front-end skills that I learned in my Introduction 
 In the meantime, I am currently completing an internship with the Farm Credit Administration through the Hispanic Association of Colleges and Universities while living in Capitol Hill, DC! Updates to this website will be completed when I have spare time outside of this opportunity. Enjoy!
 
 ![image](https://github.com/marymacbradshaww/baking-shows/assets/81542795/60efa43d-93f1-4150-a779-69d4bb285b19)
+
