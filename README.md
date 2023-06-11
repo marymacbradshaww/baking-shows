@@ -6,4 +6,4 @@ Not that I was concerned about how I was spending my time (most of it -- if not 
 
 In the meantime, I am currently completing an internship with the Farm Credit Administration while living in Capitol Hill, DC. Updates to this website will be completed when I have spare time outside of this opportunity! Enjoy.
 
-![image](https://github.com/marymacbradshaww/baking-shows/assets/81542795/64d32d84-e88e-4773-b995-58ea4962e23e)
+![image](https://github.com/marymacbradshaww/baking-shows/assets/81542795/60efa43d-93f1-4150-a779-69d4bb285b19)
